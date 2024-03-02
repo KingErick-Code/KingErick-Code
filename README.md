@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KING-ERICK-07
 - 👀 I’m interested in gaming and coding
-- 🌱 I’m currently learning ethical hacking
+- 🌱 I’m currently learning game development
 - 💞️ I’m looking to collaborate on software engineering
 - 📫 How to reach me: ericknjenga01@gmail.com
 
