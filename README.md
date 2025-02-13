@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @KING-ERICK-07
+- 👋 Hi, I’m King Erick
 - 👀 I’m interested in gaming and coding
-- 🌱 I’m currently learning game development
+- 🌱 I’m currently learning game development and web development
 - 💞️ I’m looking to collaborate on software engineering
 - 📫 How to reach me: ericknjenga01@gmail.com
 - ✔  programming languages used: C++, React
