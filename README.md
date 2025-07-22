@@ -1,6 +1,6 @@
 # 👋 Hey, I'm Erick
 
-<img align="right" src="https://raw.githubusercontent.com/KingErick-code/KingErick/main/assets/avatar.png" width="150" />
+<img align="right" src="https://github.com/KingErick-code.png" width="150" />
 
 ## 🧠 About Me
 
