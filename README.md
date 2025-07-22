@@ -1,7 +1,5 @@
 # 👋 Hey, I'm Erick
 
-<img align="right" src="https://github.com/KingErick-code.png" width="150" />
-
 ## 🧠 About Me
 
 - 🖥️ Software dev (web + game dev)
