@@ -29,6 +29,7 @@
 
 - 📫 [Email](mailto:ericknjenga01@gmail.com)
 - 📝 [Portfolio](https://ericknjenga.netlify.app)
+- 💼 [LinkedIn](https://www.linkedin.com/in/erick-njenga-1ab5a8374)
 
 ---
 
