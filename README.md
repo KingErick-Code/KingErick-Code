@@ -5,7 +5,7 @@
 - 🖥️ Software dev (web + game dev)
 - 🎮 Gamer by heart, coder by grind
 - 🚀 Currently building cool stuff with **C++, React, Unreal Engine**
-- 📝 Learning every damn day to push my AI goals forward
+- 📝 Learning every damn day to push my goals forward
 
 ---
 
