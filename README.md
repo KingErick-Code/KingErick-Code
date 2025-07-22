@@ -1,11 +1,35 @@
-- 👋 Hi, I’m King Erick
-- 👀 I’m interested in gaming and coding
-- 🌱 I’m currently learning game development and web development
-- 💞️ I’m looking to collaborate on software engineering
-- 📫 How to reach me: ericknjenga01@gmail.com
-- ✔  programming languages used: C++, React
+# 👋 Hey, I'm Erick
 
-<!---
-KING-ERICK-07/KING-ERICK-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" src="https://github.com/KingErick-code/KingErick/raw/main/assets/avatar.png" width="150" />
+
+## 🧠 About Me
+
+- 🖥️ Software dev (web + game dev)
+- 🎮 Gamer by heart, coder by grind
+- 🚀 Currently building cool stuff with **C++, React, Unreal Engine**
+- 📝 Learning every damn day to push my AI goals forward
+
+---
+
+## ⚡ What I'm Working On
+
+- 🧩 Training AI models from scratch in C++
+- 💻 Building interactive game tools & UIs
+- 🎯 Enhancing my portfolio with impactful projects
+
+---
+
+## 🛠️ Tech Stack
+
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,html,css,scss,unreal,blender,vscode,visualstudio" />
+
+---
+
+## 🌐 Connect with Me
+
+- 📫 [Email](mailto:ericknjenga01@gmail.com)
+- 📝 [Portfolio](https://ericknjenga.netlify.app)
+
+---
+
+<p align="center">⚡ Keep building. Keep learning. No shortcuts. ⚡</p>
