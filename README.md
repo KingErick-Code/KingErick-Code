@@ -4,7 +4,7 @@
 
 - 🖥️ Software dev (web + game dev)
 - 🎮 Gamer by heart, coder by grind
-- 🚀 Currently building cool stuff with **C++, React, Unreal Engine**
+- 🚀 Currently building cool stuff with **C++, React**
 - 📝 Learning every damn day to push my goals forward
 
 ---
@@ -19,7 +19,7 @@
 
 ## 🛠️ Tech Stack
 
-<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,html,css,scss,unreal,blender,vscode,visualstudio" />
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,html,css,scss,vscode,visualstudio" />
 
 ---
 
@@ -27,7 +27,7 @@
 
 - 📫 [Email](mailto:ericknjenga01@gmail.com)
 - 📝 [Portfolio](https://ericknjenga.netlify.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/erick-njenga-1ab5a8374)
+- 💼 [LinkedIn](https://www.linkedin.com/in/erick-njenga)
 
 ---
 
