@@ -1,41 +1,59 @@
-# 👋 Hey, I'm Erick
+# 👋 Yo! I'm Erick
+
+🎮 Gamer | 🖥️ Code Wizard | 🚀 AI & Game Dev Explorer
+
+---
 
 ## 🧠 About Me
 
-- 🖥️ Software Dev (Web + Game Dev)  
-- 🎮 Gamer at heart, coder on grind  
-- 🚀 Currently building AI & game tools in **C++ & React**  
-- 📝 Learning daily to level up my skills  
+- 🖥️ Crafting code for web & games  
+- 🎮 Gamer by heart, hacker by grind  
+- 🚀 Building AI engines & interactive tools in **C++ & React**  
+- 📝 Learning like a madman, leveling up daily  
+
+💡 Motto: *“If it ain’t broken, make it better.”*
 
 ---
 
-## ⚡ What I'm Working On
+## ⚡ Current Missions
 
-- 🧩 Training AI models from scratch in C++  
-- 💻 Building interactive game tools & UIs  
-- 🎯 Enhancing my portfolio with impactful projects  
-
----
-
-## 🛠️ Tech Stack
-
-<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,html,css,scss,vscode,visualstudio" />
+- 🧩 Training AI models from scratch in C++ (yes, hardcore)  
+- 💻 Building game UIs & interactive tools that feel alive  
+- 🎯 Polishing portfolio projects that hit hard  
 
 ---
 
-## 📊 GitHub Stats
+## 🛠️ Tech Arsenal
+
+<img src="https://skillicons.dev/icons?i=cpp,js,react,nodejs,express,html,css,scss,vscode,visualstudio,git,docker,linux" />
+
+---
+
+## 📊 GitHub Flex
 
 ![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=KingErick-Code&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KingErick-Code&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KingErick-Code&layout=compact&theme=tokyonight)
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Join My Orbit
 
-- 📫 [Email](mailto:ericknjenga01@gmail.com)  
-- 📝 [Portfolio](https://ericknjenga.netlify.app)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/erick-njenga)  
+- 📫 Shoot me an [Email](mailto:ericknjenga01@gmail.com)  
+- 📝 Peek my [Portfolio](https://ericknjenga.netlify.app)  
+- 💼 Connect on [LinkedIn](https://www.linkedin.com/in/erick-njenga)  
+- 🕹️ Code + Play = 😎
 
 ---
 
-<p align="center">⚡ Keep building. Keep learning. No shortcuts. ⚡</p>
+<p align="center">
+🔥 Keep building. Keep grinding. <br>
+💥 No shortcuts. Only wins.  
+</p>
+
+---
+
+### Bonus Flair
+
+<p align="center">
+<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300"/>
+</p>
