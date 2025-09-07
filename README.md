@@ -2,18 +2,18 @@
 
 ## 🧠 About Me
 
-- 🖥️ Software dev (web + game dev)
-- 🎮 Gamer by heart, coder by grind
-- 🚀 Currently building cool stuff with **C++, React**
-- 📝 Learning every damn day to push my goals forward
+- 🖥️ Software Dev (Web + Game Dev)  
+- 🎮 Gamer at heart, coder on grind  
+- 🚀 Currently building AI & game tools in **C++ & React**  
+- 📝 Learning daily to level up my skills  
 
 ---
 
 ## ⚡ What I'm Working On
 
-- 🧩 Training AI models from scratch in C++
-- 💻 Building interactive game tools & UIs
-- 🎯 Enhancing my portfolio with impactful projects
+- 🧩 Training AI models from scratch in C++  
+- 💻 Building interactive game tools & UIs  
+- 🎯 Enhancing my portfolio with impactful projects  
 
 ---
 
@@ -23,11 +23,18 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Erick's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+
+---
+
 ## 🌐 Connect with Me
 
-- 📫 [Email](mailto:ericknjenga01@gmail.com)
-- 📝 [Portfolio](https://ericknjenga.netlify.app)
-- 💼 [LinkedIn](https://www.linkedin.com/in/erick-njenga)
+- 📫 [Email](mailto:ericknjenga01@gmail.com)  
+- 📝 [Portfolio](https://ericknjenga.netlify.app)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/erick-njenga)  
 
 ---
 
